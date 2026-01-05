@@ -37,5 +37,7 @@ Unlike traditional Reinforcement Learning (RL) approaches which require thousand
 
 ```bash
 python3 spectre_engine.py
-Intellectual Property
+```
+
+## Intellectual Property
 This work utilizes the Holo-Neural Hybrid Architecture detailed in U.S. Provisional Patent Application No. 63/940,641. The mathematical isomorphism between Quantum Control (noise decoupling) and Electronic Warfare (jammer nulling) is the core innovation driving this engine.
